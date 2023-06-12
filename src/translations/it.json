@@ -1,0 +1,25 @@
+{
+  "general": {
+    "hello-word": "Buongiorno Mondo"
+  },
+  "auth": {
+    "login": "login",
+    "register": "registrati",
+    "form-title-login": "Effettua il login",
+    "form-title-register": "Registra un nuovo utente",
+    "email": "email",
+    "password": "password",
+    "password-confirm": "Conferma password",
+    "email-confirm": "Conferma email",
+    "email-error": "Inserisci un indirizzo email valido",
+    "password-error": "Inserisci una password valida",
+    "confirm-password-error": "Le password non coincidono",
+    "confirm-email-error": "Le email non coincidono",
+    "login-error": "Credenziali non valide",
+    "register-error": "Errore durante la registrazione",
+    "password-regex": "La password deve contenere almeno 8 caratteri, una lettera maiuscola, una lettera minuscola e un numero"
+  },
+  "common": {
+    "unknown-error": "Errore sconosciuto"
+  }
+}
